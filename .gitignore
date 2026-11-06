@@ -1,0 +1,21 @@
+# Ignore all .log files
+*.log
+*.iter
+
+# Ignore node_modules directory
+node_modules/
+
+# ignore __pycache__ directory
+__pycache__/
+
+# ignore scratch.ipynb files
+scratch.ipynb
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Documentation files
+**/Documentation hub/
+
+# Ignore zip files
+*.zip
