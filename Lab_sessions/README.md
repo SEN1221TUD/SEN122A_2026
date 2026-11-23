@@ -30,6 +30,6 @@ If you are **unfamiliar with Python**, we recommend completing [**lab session 0*
 The lab sessions and answers will be available on the following dates:
 | Week | Lab session | Publication date<br>Lab session | Publication date<br>Answers |
 |:----:|:-----------:|:--------------------------------:|:------------------------------------------:|
-| 47 | Lab 1 | ✅ [Available](https://github.com/SEN1221TUD/SEN122A_2026/tree/main/Lab_sessions/Lab_session_01) | ⏳ 23-11-2026 09:00 |
-| 48 | Lab 2 | ⏳ 23-11-2026 09:00 | ⏳ 30-11-2026 09:00 |
+| 47 | Lab 1 | ✅ [Available](https://github.com/SEN1221TUD/SEN122A_2026/tree/main/Lab_sessions/Lab_session_01) | ✅ [Available](https://github.com/SEN1221TUD/SEN122A_2026/tree/main/Lab_sessions/Lab_session_01) |
+| 48 | Lab 2 | ✅ [Available](https://github.com/SEN1221TUD/SEN122A_2026/tree/main/Lab_sessions/Lab_session_02) | ⏳ 30-11-2026 09:00 |
 | 49 | Lab 3 | ⏳ 30-11-2026 09:00 | ⏳ 03-12-2026 09:00 |
